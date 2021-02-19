@@ -18,7 +18,7 @@ a:hover {
     float: right;
     width: 300px;
     height: 300px 
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* Ez a kód nekem valamiért nincs Highlightolva és nem érzékeli kódnak, és ne tudom miért */
     margin-left: 20px;
 }
 
@@ -32,5 +32,7 @@ p {
 }
 
 .forras {
-    font-size: 10px font-style: italic;
+    font-size: 10px 
+    font-style: italic;/* Ez a kód nekem valamiért nincs Highlightolva és nem érzékeli kódnak, és ne tudom miért */
     float: right
+}
