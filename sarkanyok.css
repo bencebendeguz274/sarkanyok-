@@ -17,8 +17,8 @@ a:hover {
 .jobbrakep {
     float: right;
     width: 300px;
-    height: 300px 
-    margin-bottom: 20px; /* Ez a kód nekem valamiért nincs Highlightolva és nem érzékeli kódnak, és ne tudom miért */
+    height: 300px;
+    margin-bottom: 20px; 
     margin-left: 20px;
 }
 
@@ -32,7 +32,7 @@ p {
 }
 
 .forras {
-    font-size: 10px 
-    font-style: italic;/* Ez a kód nekem valamiért nincs Highlightolva és nem érzékeli kódnak, és ne tudom miért */
-    float: right
+    font-size: 10px;
+    font-style: italic;
+    float: right;
 }
